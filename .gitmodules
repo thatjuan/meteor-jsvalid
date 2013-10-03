@@ -1,0 +1,3 @@
+[submodule "jsvalid"]
+	path = jsvalid
+	url = https://github.com/thatjuan/jsvalid.git
